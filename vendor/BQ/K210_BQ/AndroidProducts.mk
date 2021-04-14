@@ -1,3 +1,0 @@
-PRODUCT_MAKEFILES := \
-$(LOCAL_DIR)/K210_BQ.mk \
-$(LOCAL_DIR)/omni_K210_BQ.mk
