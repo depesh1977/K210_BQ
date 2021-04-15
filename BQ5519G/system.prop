@@ -1,0 +1,12 @@
+ro.adb.secure=0
+ro.boot.avb_version=1.0
+ro.boot.vbmeta.avb_version=1.0
+sys.usb.config=mtp
+ro.hardware.keystore=sprdtrusty
+sys.usb.controller=musb-hdrc.0.auto
+ro.build.system_root_image=true
+ro.treble.enabled=true
+ro.allow.mock.location=0
+ro.secure=1
+
+
