@@ -126,8 +126,6 @@ TWFLAG_WRAPPEDKEY := true
 TW_CUSTOM_BATTERY_PATH := "/sys/class/power_supply/battery"
 ARCH_ARM_HAVE_NEON := true
 ARCH_ARM_HAVE_ARMV7A := true
-#TW_CRYPTO_SYSTEM_VOLD_MOUNT := vendor cust odm
-#BOARD_USES_METADATA_PARTITION := true
 
 # Show build time on the splash screen
 TW_DEVICE_VERSION=$(shell date '+%Y%m%d') by depesh1977
